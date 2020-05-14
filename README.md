@@ -9,6 +9,4 @@ A variety of date formats and seperators exist within the date that must be acco
 
 FuzzyWuzzy on the other hand, is used to correct mispelled months by using Levenshtein Distance to compare spelling differences.
 
-The final output of this notebook contains columns for `Day`, `Month` and `Year` - as well as a `Date` column which combines these three.
-
-_(Lines that are missing months/days are defaulted to 'January' and '01' respectively)_
+The final output of this notebook contains columns for `Day`, `Month` and `Year` - as well as a `Date` column which combines these three. _(Lines that are missing months/days are defaulted to 'January' and '01' respectively)_
